@@ -1,0 +1,30 @@
+body {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+h1 {
+    font-family: "Syne", sans-serif;
+    font-weight: 800;
+}
+
+h2 {
+    font-family: "Syne", sans-serif;
+    font-weight: 700;
+}
+
+h3 {
+    font-family: "Syne", sans-serif;
+    font-weight: 600;
+}
+
+h4 {
+    font-family: "Syne", sans-serif;
+}
+
+.card-img-top {
+    object-fit: cover;
+}
+
+.btn{
+    width: 100%;
+}
